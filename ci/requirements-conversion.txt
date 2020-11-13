@@ -26,7 +26,7 @@ scipy==1.4.1
 six==1.14.0               # via absl-py, google-pasta, grpcio, h5py, keras-preprocessing, onnx, protobuf, tensorboard, tensorflow, torchvision
 tensorboard==1.15.0       # via tensorflow
 tensorflow-estimator==1.15.1  # via tensorflow
-tensorflow==1.15.2
+tensorflow==2.3.1
 termcolor==1.1.0          # via tensorflow
 torch==1.4.0
 torchvision==0.5.0
