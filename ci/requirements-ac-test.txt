@@ -15,7 +15,7 @@ py==1.8.1                 # via pytest
 pyparsing==2.4.6          # via packaging
 pytest-mock==2.0.0
 pytest==5.3.5
-pyyaml==5.3               # via yamlloader
+pyyaml==5.4               # via yamlloader
 scikit-learn==0.22.1
 scipy==1.4.1
 sentencepiece==0.1.85
